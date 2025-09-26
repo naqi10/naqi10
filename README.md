@@ -32,7 +32,7 @@ My projects are live on GitHub check them out if you're curious!
 
 ## Skills at a Glance
 
-- **Languages & Backend**: Python (FastAPI), Node.js  
+- **Languages & Backend**: Python (FastAPI), Nest.js  
 - **Frontend**: React.js, Next.js, Redux Toolkit  
 - **AI/ML**: LangChain, PyTorch, TensorFlow, RAG, NLP  
 - **Databases**: MongoDB, PostgreSQL, SQL  
