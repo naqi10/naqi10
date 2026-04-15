@@ -38,16 +38,16 @@ Created a Job Intelligence Platform that scrapes job listings and applies AI for
 
 ## ⚡ What I Do
 
-AI & Machine Learning
+## AI & Machine Learning
 Building intelligent systems using LLMs, RAG pipelines, LangChain, TensorFlow, and PyTorch
 
-Backend Development
-Designing fast, scalable APIs using FastAPI and Python with production-ready architecture
+## Backend Development
+Designing fast, scalable APIs using Nextjs,Nestjs, LangGraph, FastAPI and Python with production-ready architecture
 
-Frontend Development
+## Frontend Development
 Creating responsive and interactive applications using React.js, Next.js, and Redux
 
-Databases
+## Databases
 Working with MongoDB, PostgreSQL, and SQL for efficient data handling
 
 ## 🧠My Approach
@@ -56,7 +56,7 @@ I focus on understanding the real goal behind every project, not just the techni
 
 From there, I design and build systems that are scalable, maintainable, and easy to use. The aim is always to deliver solutions that perform well in real-world scenarios, not just in development.
 
-##🛠 Skills
+## 🛠 Skills
 
 Python (FastAPI)
 Nest.js
