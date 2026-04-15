@@ -1,4 +1,3 @@
-## Ali Naqi
 ## AI Engineer | Full Stack Developer | FastAPI & LLM Specialist
 ## 🚀 About Me
 
