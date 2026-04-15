@@ -10,6 +10,34 @@ I'm Ali, a developer who loves building smart and scalable tech. Whether it's cr
 From creating chatbots that can understand PDFs to building database question-answering tools powered by LLMs, I've worked on dozens of exciting projects. I believe in using the right tools for the job and making sure the user experience is smooth, simple, and solid.
 
 ---
+💼 Companies I've Worked With
+Mercury Sols — Full Stack Developer (Current)
+
+Currently working as a Full Stack Developer, building scalable and production-grade applications using modern technologies like Next.js, NestJS, Prisma, and Neon DB.
+
+Key Work & Projects:
+
+Built a Tennis Path Management System — a professional platform for managing player journeys, tournaments, and performance tracking.
+Developed a Lab Comparison Platform — enabling users to compare 2000+ lab tests dynamically, with optimized backend queries and responsive UI.
+Implemented high-performance scraping systems (NestJS) to fetch and process tournament and external data in real-time.
+Designed clean API architectures with scalable modules, authentication systems, and role-based access control.
+Focused on performance optimization, clean architecture, and production-level deployment.
+Dev Layers — Full Stack Next.js Developer
+
+Worked as a Full Stack Developer, delivering client-focused, real-world applications using modern web technologies.
+
+Key Work & Projects:
+
+Developed a Multi-Vendor E-Commerce Platform (Next.js + Backend APIs)
+Features: product management, cart system, order flow, and admin dashboard
+Designed for scalability similar to real-world marketplaces
+Built an AI-Powered Document Chat System (RAG-based)
+Users can upload PDFs and interact with them using natural language
+Implemented FAISS + Sentence Transformers + FastAPI backend
+Focused on fast retrieval and clean UX
+Created a Job Intelligence Platform (AI + Scraping + NLP)
+Scrapes job listings and applies AI for summarization, skill extraction, and classification
+Helps users match skills with job requirements intelligently
 
 ## What I Do
 
