@@ -1,6 +1,6 @@
-Ali Naqi
-AI Engineer | Full Stack Developer | FastAPI & LLM Specialist
-🚀 About Me
+## Ali Naqi
+## AI Engineer | Full Stack Developer | FastAPI & LLM Specialist
+## 🚀 About Me
 
 I'm Ali, a developer passionate about building smart, scalable systems that solve real-world problems.
 
@@ -8,14 +8,12 @@ From AI-powered applications to full-stack platforms, I focus on creating soluti
 
 I believe in choosing the right tools, writing maintainable code, and delivering experiences that feel simple yet powerful.
 
-💼 Companies I've Worked With
-Mercury Sols
-
-Full Stack Developer (Current)
+## 💼 Companies I've Worked With
+## Mercury Sols - Full Stack Developer (Current)
 
 Currently building production-level applications using Next.js, NestJS, Prisma, and Neon DB, focusing on scalability, performance, and clean architecture.
 
-Key Contributions:
+## Key Contributions:
 
 Built a Tennis Path Management System designed to manage player journeys, tournaments, and performance tracking in a structured and scalable way.
 
@@ -27,13 +25,11 @@ Designed modular backend architectures with authentication, role-based access co
 
 Focused on performance optimization, maintainability, and real-world deployment standards.
 
-Dev Layers
-
-Full Stack Next.js Developer
+## Dev Layers - Full Stack Next.js Developer
 
 Worked on client-based applications, delivering real-world solutions using modern full-stack technologies.
 
-Key Contributions:
+## Key Contributions:
 
 Developed a scalable Multi-Vendor E-Commerce Platform with complete product management, cart system, order workflows, and admin dashboard.
 
@@ -41,7 +37,7 @@ Built an AI-powered Document Chat System where users can upload PDFs and interac
 
 Created a Job Intelligence Platform that scrapes job listings and applies AI for summarization, skill extraction, and classification, helping users align their skills with market demand.
 
-⚡ What I Do
+## ⚡ What I Do
 
 AI & Machine Learning
 Building intelligent systems using LLMs, RAG pipelines, LangChain, TensorFlow, and PyTorch
@@ -55,13 +51,13 @@ Creating responsive and interactive applications using React.js, Next.js, and Re
 Databases
 Working with MongoDB, PostgreSQL, and SQL for efficient data handling
 
-🧠 My Approach
+## 🧠My Approach
 
 I focus on understanding the real goal behind every project, not just the technical requirements.
 
 From there, I design and build systems that are scalable, maintainable, and easy to use. The aim is always to deliver solutions that perform well in real-world scenarios, not just in development.
 
-🛠 Skills
+##🛠 Skills
 
 Python (FastAPI)
 Nest.js
@@ -80,17 +76,17 @@ Git
 Docker
 Vercel
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 If you're working on something interesting or need help building a product, feel free to reach out. I'm always open to collaboration and meaningful tech discussions.
 
-🌐 Find Me Here
+## 🌐 Find Me Here
 
-LinkedIn
+## LinkedIn
 www.linkedin.com/in/ali-naqi-69688a244
 
-GitHub
+## GitHub
 https://github.com/naqi10
 
-Upwork
+## Upwork
 https://www.upwork.com/freelancers/~0177ca8838224ab006
