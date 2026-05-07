@@ -87,13 +87,14 @@ My work lives at the intersection of **full-stack engineering** and **AI** from 
 A production full-stack platform that helps competitive tennis players make smarter decisions about their tournament path whether they're targeting Professional circuits, College scholarships, Development stages, or UTR score improvement.
 
 **What makes it interesting:**
+- Scrapers pulling tournaments from **8 different sources** on scheduled **Redis + BullMQ** jobs, feeding a clean normalization pipeline that dedupes and standardizes data into a single canonical schema
+- Pinpoint-accurate geocoding — venues resolve to **exact addresses, not country centroids** — so PostGIS distance sorting actually reflects how far a player has to drive
 - Plans module with shared tournament drafts, invite workflows, and per-member notification preferences stored in JSONB
 - Full audit logging on every mutation — who changed what, and exactly when
 - Integrated UTR Sports OAuth API with pagination and normalised JSON sync
 - Comments system with 15-min edit windows, soft-delete flags, and notification gating
-- Server-side PostGIS distance sorting replacing brittle client-side sort
 
-`Next.js` `NestJS` `PostgreSQL` `PostGIS` `Prisma` `TypeORM` `UTR API` `OAuth` `JWT` `Tailwind`
+`Next.js` `NestJS` `PostgreSQL` `PostGIS` `Redis` `BullMQ` `Prisma` `TypeORM` `UTR API` `OAuth` `JWT` `Tailwind`
 
 ---
 
@@ -181,11 +182,6 @@ Speed isn't an afterthought — it's architecture.
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naqi10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ali's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqi10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
