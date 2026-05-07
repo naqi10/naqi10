@@ -1,91 +1,250 @@
-## AI Engineer | Full Stack Developer | FastAPI & LLM Specialist
-## 🚀 About Me
+<div align="center">
 
-I'm Ali, a developer passionate about building smart, scalable systems that solve real-world problems.
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║      ██████╗ ██╗   ██╗██╗██╗     ██████╗                 ║
+║     ██╔══██╗██║   ██║██║██║     ██╔══██╗                 ║
+║     ██████╔╝██║   ██║██║██║     ██║  ██║                 ║
+║     ██╔══██╗██║   ██║██║██║     ██║  ██║                 ║
+║     ██████╔╝╚██████╔╝██║███████╗██████╔╝                 ║
+║     ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝                  ║
+║                                                           ║
+║          Full Stack × AI Engineer                         ║
+║          JavaScript · Python · LLMs · Databases           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-From AI-powered applications to full-stack platforms, I focus on creating solutions that are not only technically strong but also clean, efficient, and user-friendly. I’ve worked on systems like PDF-based chatbots, intelligent data tools, and production-grade web platforms powered by modern AI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+2%2B+Years+Shipped;Next.js+%2B+NestJS+%2B+FastAPI+%2B+Python;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Building+AI+apps+that+actually+work+in+prod)](https://git.io/typing-svg)
 
-I believe in choosing the right tools, writing maintainable code, and delivering experiences that feel simple yet powerful.
+<img src="https://komarev.com/ghpvc/?username=naqi10&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-naqi-69688a244)
+&nbsp;
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0177ca8838224ab006)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinaqidev@gmail.com)
 
-## 💼 Companies I've Worked With
-## Mercury Sols - Full Stack Developer (Current)
+</div>
 
-Currently building production-level applications using Next.js, NestJS, Prisma, and Neon DB, focusing on scalability, performance, and clean architecture.
+---
 
-## Key Contributions:
+## 👋 Hey, I'm Ali
 
-Built a Tennis Path Management System designed to manage player journeys, tournaments, and performance tracking in a structured and scalable way.
+I build things that ship. Not demos — real, production-grade applications used by real people.
 
-Developed a Lab Comparison Platform where users can compare over 2000+ lab tests dynamically, with optimized backend queries and a smooth frontend experience.
+My work lives at the intersection of **full-stack engineering** and **AI** — from snappy Next.js frontends and typed NestJS/FastAPI backends, to RAG pipelines, LLM integrations, and intelligent data systems. I care about clean architecture, fast interfaces, and code that's easy to maintain six months later.
 
-Engineered high-performance scraping systems using NestJS to fetch and process tournament and external data efficiently in real-time.
+> *"Right tool, clean code, real impact."*
 
-Designed modular backend architectures with authentication, role-based access control, and scalable APIs ready for production environments.
+---
 
-Focused on performance optimization, maintainability, and real-world deployment standards.
+## 🔥 What I Actually Build
 
-## Dev Layers - Full Stack Next.js Developer
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🧠 AI Systems       → RAG, LangChain, LangGraph, Agents    │
+│  🌐 Web Platforms    → Next.js, NestJS, FastAPI, REST APIs  │
+│  🗄️  Data Layers     → PostgreSQL, MongoDB, Redis, pgvector  │
+│  ⚡  Fast Frontends  → SSR, caching, lazy load, Web Vitals  │
+│  🔧 Dev Infra        → Docker, JWT Auth, CI/CD, Prisma ORM  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Worked on client-based applications, delivering real-world solutions using modern full-stack technologies.
+---
 
-## Key Contributions:
+## 🛠 Tech Stack
 
-Developed a scalable Multi-Vendor E-Commerce Platform with complete product management, cart system, order workflows, and admin dashboard.
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Built an AI-powered Document Chat System where users can upload PDFs and interact using natural language, powered by RAG architecture with FAISS and FastAPI.
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-Created a Job Intelligence Platform that scrapes job listings and applies AI for summarization, skill extraction, and classification, helping users align their skills with market demand.
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## ⚡ What I Do
+### AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## AI & Machine Learning
-Building intelligent systems using LLMs, RAG pipelines, LangChain, LangGraph and PyTorch
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## Backend Development
-Designing fast, scalable APIs using Nextjs,Nestjs, FastAPI and Python with production-ready architecture
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Frontend Development
-Creating responsive and interactive applications using React.js, Next.js, and Redux
+---
 
-## Databases
-Working with MongoDB, PostgreSQL,Prisma and SQL for efficient data handling
+## 🚀 Featured Projects
 
-## 🧠My Approach
+### 🎾 Path Tennis — [pathtennis.com](https://pathtennis.com)
+> Tournament pathway platform for players, coaches & parents
 
-I focus on understanding the real goal behind every project, not just the technical requirements.
+A production full-stack platform that helps competitive tennis players make smarter decisions about their tournament path — whether they're targeting Professional circuits, College scholarships, Development stages, or UTR score improvement.
 
-From there, I design and build systems that are scalable, maintainable, and easy to use. The aim is always to deliver solutions that perform well in real-world scenarios, not just in development.
+**What makes it interesting:**
+- Plans module with shared tournament drafts, invite workflows, and per-member notification preferences stored in JSONB
+- Full audit logging on every mutation — who changed what, and exactly when
+- Integrated UTR Sports OAuth API with pagination and normalised JSON sync
+- Comments system with 15-min edit windows, soft-delete flags, and notification gating
+- Server-side PostGIS distance sorting replacing brittle client-side sort
 
-## 🛠 Skills
+`Next.js` `NestJS` `PostgreSQL` `PostGIS` `Prisma` `TypeORM` `UTR API` `OAuth` `JWT` `Tailwind`
 
-Python (FastAPI)
-Nest.js
-React.js
-Next.js
-Redux Toolkit
-LangChain
-PyTorch
-TensorFlow
-RAG
-NLP
-MongoDB
-PostgreSQL
-SQL
-Git
-Docker
-Vercel
+---
 
-## 🤝 Let's Connect
+### 🧪 Lab Price Comparator
+> Multi-tenant lab test price comparison + PDF quotation generator
 
-If you're working on something interesting or need help building a product, feel free to reach out. I'm always open to collaboration and meaningful tech discussions.
+Built for clinics to compare 2000+ lab test prices across labs and auto-generate branded PDF quotations.
 
-## 🌐 Find Me Here
+**What makes it interesting:**
+- Ingestion pipeline parsing Excel and PDF price lists with auto column detection and full UTF-8/French char support
+- Fuzzy test matching via `pg_trgm` + `unaccent` with confidence scores and manual overrides
+- `Meilleur choix` badge engine flagging cheapest option per test category
+- DRAFT → SENT PDF versioning workflow with PDFKit and A4 formatting
+- Admin dashboard with activity logs, email delivery analytics, and role-protected user management
 
-## LinkedIn
-www.linkedin.com/in/ali-naqi-69688a244
+`Next.js` `NextAuth` `PostgreSQL` `pg_trgm` `Prisma` `ExcelJS` `PDFKit` `Zod` `TypeScript`
 
-## GitHub
-https://github.com/naqi10
+---
 
-## Upwork
-https://www.upwork.com/freelancers/~0177ca8838224ab006
+### 🤖 Jobify AI
+> AI-powered career assistant — resumes, cover letters, interview prep
+
+Integrated Gemini API for context-aware generation of career documents, with job trend features and industry insights.
+
+`Next.js` `Gemini API` `Clerk Auth` `Tailwind` `AI Integration`
+
+---
+
+### 🛒 E-Shop Platform
+> Full-stack e-commerce with role-based admin tools
+
+Product catalog, cart, order management, and admin dashboard built with clean separation of concerns across frontend and backend.
+
+`Next.js` `NestJS` `React` `PostgreSQL` `MongoDB` `Prisma` `JWT` `Tailwind`
+
+---
+
+## 🧠 How I Approach AI Engineering
+
+Most AI demos break in production. Here's how I build ones that don't:
+
+```
+User Query
+    │
+    ▼
+Query Preprocessing & Intent Detection
+    │
+    ▼
+Retrieval (pgvector / Chroma / Pinecone)  ←── Chunked + Embedded Docs
+    │
+    ▼
+Context Ranking + Reranking
+    │
+    ▼
+LLM Call (with structured prompt + guardrails)
+    │
+    ▼
+Response + Cache Layer (Redis)
+    │
+    ▼
+User gets a fast, accurate answer ✅
+```
+
+- **RAG**: Retrieval-Augmented Generation with vector stores (pgvector, Pinecone, Chroma)
+- **Agents**: Multi-step LangGraph agents with tool calling and state machines
+- **LlamaIndex**: Document ingestion, indexing pipelines, and query engines
+- **Fine-tuning**: LoRA/QLoRA with Transformers — adapting base models to domain tasks
+- **Caching**: Redis for semantic cache layers so repeated queries don't re-hit the LLM
+
+---
+
+## ⚡ How I Keep Frontends Fast
+
+Speed isn't an afterthought — it's architecture.
+
+| Strategy | What I Use |
+|---|---|
+| **SSR + ISR** | Next.js Server Components, `getStaticProps`, ISR revalidation |
+| **API Response Cache** | Redis with TTL-based invalidation |
+| **Database Query Opt** | Indexed columns, `pg_trgm`, PostGIS, query explain plans |
+| **Image & Asset Opt** | `next/image`, lazy loading, compression pipelines |
+| **Bundle Size** | Dynamic imports, tree-shaking, route-based code splitting |
+| **Semantic Cache** | Cache LLM outputs by embedding similarity (not just key match) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naqi10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqi10&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=naqi10&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💼 Work History (Quick Look)
+
+```
+2025 Dec → Now    Mercury Sols        Full Stack Engineer
+                  Next.js · NestJS · PostgreSQL · Docker
+
+2025 Mar → Nov    Dev Layers          Full Stack Developer
+                  React · NestJS · Prisma · MongoDB
+
+2025 Jan → Feb    Dev Layers          Full Stack Intern
+                  NestJS · REST APIs · PostgreSQL
+
+2024 Mar → Jul    The Soaqi           Frontend Intern
+                  React · SEO · Performance Optimization
+```
+
+---
+
+## 🤝 Open to Work
+
+If you're building something ambitious and need someone who can own both the AI layer and the full product — let's talk.
+
+- **Freelance / Contract**: Available on Upwork
+- **Collabs**: Open to interesting open-source AI tooling
+- **Hire Me**: Drop an email, I respond fast
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-naqi-69688a244)
+&nbsp;
+[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0177ca8838224ab006)
+&nbsp;
+[![Email](https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinaqidev@gmail.com)
+
+---
+
+*Built with care. Shipped to production. ⚡*
+
+</div>
