@@ -1,29 +1,20 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║      ██████╗ ██╗   ██╗██╗██╗     ██████╗                 ║
-║     ██╔══██╗██║   ██║██║██║     ██╔══██╗                 ║
-║     ██████╔╝██║   ██║██║██║     ██║  ██║                 ║
-║     ██╔══██╗██║   ██║██║██║     ██║  ██║                 ║
-║     ██████╔╝╚██████╔╝██║███████╗██████╔╝                 ║
-║     ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝                  ║
-║                                                           ║
-║          Full Stack × AI Engineer                         ║
-║          JavaScript · Python · LLMs · Databases           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<h1>
+  Ali Naqi
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=460&height=40&lines=Full+Stack+%C3%97+AI+Engineer;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+Python;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;Shipping+AI+that+works+in+prod" alt="Typing SVG" />
+  </a>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+2%2B+Years+Shipped;Next.js+%2B+NestJS+%2B+FastAPI+%2B+Python;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Building+AI+apps+that+actually+work+in+prod)](https://git.io/typing-svg)
+<p>
+  <code>JavaScript</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>LLMs</code> &nbsp;·&nbsp; <code>Databases</code>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=naqi10&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-naqi-69688a244)
-&nbsp;
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0177ca8838224ab006)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinaqidev@gmail.com)
+<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.upwork.com/freelancers/~0177ca8838224ab006"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -195,16 +186,14 @@ Speed isn't an afterthought — it's architecture.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naqi10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqi10&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naqi10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ali's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqi10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naqi10&theme=tokyonight)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=naqi10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -237,11 +226,9 @@ If you're building something ambitious and need someone who can own both the AI 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-naqi-69688a244)
-&nbsp;
-[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0177ca8838224ab006)
-&nbsp;
-[![Email](https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinaqidev@gmail.com)
+<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.upwork.com/freelancers/~0177ca8838224ab006"><img src="https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
