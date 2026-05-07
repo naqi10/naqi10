@@ -1,11 +1,8 @@
 <div align="center">
 
-<h1>
-  Ali Naqi
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=460&height=40&lines=Full+Stack+%C3%97+AI+Engineer;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+Python;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;Shipping+AI+that+works+in+prod" alt="Typing SVG" />
-  </a>
-</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+%C3%97+AI+Engineer;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+Python;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;Shipping+AI+that+works+in+prod" alt="Typing SVG" />
+</a>
 
 <p>
   <code>JavaScript</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>LLMs</code> &nbsp;·&nbsp; <code>Databases</code>
@@ -22,9 +19,9 @@
 
 ## 👋 Hey, I'm Ali
 
-I build things that ship. Not demos — real, production-grade applications used by real people.
+I build things that ship. Not demos real, production-grade applications used by real people.
 
-My work lives at the intersection of **full-stack engineering** and **AI** — from snappy Next.js frontends and typed NestJS/FastAPI backends, to RAG pipelines, LLM integrations, and intelligent data systems. I care about clean architecture, fast interfaces, and code that's easy to maintain six months later.
+My work lives at the intersection of **full-stack engineering** and **AI** from snappy Next.js frontends and typed NestJS/FastAPI backends, to RAG pipelines, LLM integrations, and intelligent data systems. I care about clean architecture, fast interfaces, and code that's easy to maintain six months later.
 
 > *"Right tool, clean code, real impact."*
 
@@ -87,7 +84,7 @@ My work lives at the intersection of **full-stack engineering** and **AI** — f
 ### 🎾 Path Tennis — [pathtennis.com](https://pathtennis.com)
 > Tournament pathway platform for players, coaches & parents
 
-A production full-stack platform that helps competitive tennis players make smarter decisions about their tournament path — whether they're targeting Professional circuits, College scholarships, Development stages, or UTR score improvement.
+A production full-stack platform that helps competitive tennis players make smarter decisions about their tournament path whether they're targeting Professional circuits, College scholarships, Development stages, or UTR score improvement.
 
 **What makes it interesting:**
 - Plans module with shared tournament drafts, invite workflows, and per-member notification preferences stored in JSONB
@@ -100,10 +97,10 @@ A production full-stack platform that helps competitive tennis players make smar
 
 ---
 
-### 🧪 Lab Price Comparator
-> Multi-tenant lab test price comparison + PDF quotation generator
+### 🧪 Lab Price Comparator — [bestlabprice.com](https://bestlabprice.com)
+> Internal tool for a French client — multi-tenant lab test price comparison + PDF quotation generator
 
-Built for clinics to compare 2000+ lab test prices across labs and auto-generate branded PDF quotations.
+Built for a French client's clinic operations to compare 2000+ lab test prices across labs and auto-generate branded PDF quotations — used internally by their team to speed up quoting.
 
 **What makes it interesting:**
 - Ingestion pipeline parsing Excel and PDF price lists with auto column detection and full UTF-8/French char support
