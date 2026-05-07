@@ -88,9 +88,9 @@ A production full-stack platform that helps competitive tennis players make smar
 
 **What makes it interesting:**
 - Scrapers pulling tournaments from **8 different sources** on scheduled **Redis + BullMQ** jobs, feeding a clean normalization pipeline that dedupes and standardizes data into a single canonical schema
-- Pinpoint-accurate geocoding — venues resolve to **exact addresses, not country centroids** — so PostGIS distance sorting actually reflects how far a player has to drive
+- Pinpoint-accurate geocoding venues resolve to **exact addresses, not country centroids** so PostGIS distance sorting actually reflects how far a player has to drive
 - Plans module with shared tournament drafts, invite workflows, and per-member notification preferences stored in JSONB
-- Full audit logging on every mutation — who changed what, and exactly when
+- Full audit logging on every mutation who changed what, and exactly when
 - Integrated UTR Sports OAuth API with pagination and normalised JSON sync
 - Comments system with 15-min edit windows, soft-delete flags, and notification gating
 
@@ -101,7 +101,7 @@ A production full-stack platform that helps competitive tennis players make smar
 ### 🧪 Lab Price Comparator — [bestlabprice.com](https://bestlabprice.com)
 > Internal tool for a French client — multi-tenant lab test price comparison + PDF quotation generator
 
-Built for a French client's clinic operations to compare 2000+ lab test prices across labs and auto-generate branded PDF quotations — used internally by their team to speed up quoting.
+Built for a French client's clinic operations to compare 2000+ lab test prices across labs and auto-generate branded PDF quotations used internally by their team to speed up quoting.
 
 **What makes it interesting:**
 - Ingestion pipeline parsing Excel and PDF price lists with auto column detection and full UTF-8/French char support
@@ -143,7 +143,7 @@ User Query
 Query Preprocessing & Intent Detection
     │
     ▼
-Retrieval (pgvector / Chroma / Pinecone)  ←── Chunked + Embedded Docs
+Retrieval (pgvector / Chroma / Pinecone)  ← Chunked + Embedded Docs
     │
     ▼
 Context Ranking + Reranking
@@ -161,7 +161,7 @@ User gets a fast, accurate answer ✅
 - **RAG**: Retrieval-Augmented Generation with vector stores (pgvector, Pinecone, Chroma)
 - **Agents**: Multi-step LangGraph agents with tool calling and state machines
 - **LlamaIndex**: Document ingestion, indexing pipelines, and query engines
-- **Fine-tuning**: LoRA/QLoRA with Transformers — adapting base models to domain tasks
+- **Fine-tuning**: LoRA/QLoRA with Transformers adapting base models to domain tasks
 - **Caching**: Redis for semantic cache layers so repeated queries don't re-hit the LLM
 
 ---
