@@ -10,7 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=naqi10&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 <a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.upwork.com/freelancers/~0177ca8838224ab006"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 <a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -19,9 +18,15 @@
 
 ## 👋 Hey, I'm Ali
 
-I build things that ship. Not demos real, production-grade applications used by real people.
+I build things that ship. Not demos  real, production-grade applications used by real people.
 
-My work lives at the intersection of **full-stack engineering** and **AI** from snappy Next.js frontends and typed NestJS/FastAPI backends, to RAG pipelines, LLM integrations, and intelligent data systems. I care about clean architecture, fast interfaces, and code that's easy to maintain six months later.
+My work lives at the intersection of full-stack engineering and AI — from snappy Next.js frontends and typed NestJS/FastAPI backends, to RAG pipelines, LLM integrations, and intelligent data systems. I care about clean architecture, fast interfaces, and code that's easy to maintain six months later.
+
+I've worked hands-on in **React** and **Next.js**: building real features and full projects routes, auth-aware UI, dashboards, and performance-minded pages users rely on day to day.
+
+Behind that, I use **NestJS** for backends that need to grow REST APIs, structured modules, and pipelines that pull data through **scraping** and ingestion, then **normalize** it so everything stays consistent and trustworthy downstream. When work belongs off the hot path, I queue it with **BullMQ** and **Redis** so the system stays responsive under load.
+
+On the **Python** side, I've built **RAG** pipelines and **fine-tuned** models on **e‑commerce**-oriented data aligning outputs with how people actually search and buy, not generic demos. I'm straightforward about trade-offs, limits, and what still needs a second look in production.
 
 > *"Right tool, clean code, real impact."*
 
@@ -155,7 +160,7 @@ LLM Call (with structured prompt + guardrails)
 Response + Cache Layer (Redis)
     │
     ▼
-User gets a fast, accurate answer ✅
+User gets a fast, accurate answer 
 ```
 
 - **RAG**: Retrieval-Augmented Generation with vector stores (pgvector, Pinecone, Chroma)
@@ -181,47 +186,12 @@ Speed isn't an afterthought — it's architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=naqi10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 💼 Work History (Quick Look)
-
-```
-2025 Dec → Now    Mercury Sols        Full Stack Engineer
-                  Next.js · NestJS · PostgreSQL · Docker
-
-2025 Mar → Nov    Dev Layers          Full Stack Developer
-                  React · NestJS · Prisma · MongoDB
-
-2025 Jan → Feb    Dev Layers          Full Stack Intern
-                  NestJS · REST APIs · PostgreSQL
-
-2024 Mar → Jul    The Soaqi           Frontend Intern
-                  React · SEO · Performance Optimization
-```
-
----
-
-## 🤝 Open to Work
-
-If you're building something ambitious and need someone who can own both the AI layer and the full product — let's talk.
-
-- **Freelance / Contract**: Available on Upwork
-- **Collabs**: Open to interesting open-source AI tooling
-- **Hire Me**: Drop an email, I respond fast
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.upwork.com/freelancers/~0177ca8838224ab006"><img src="https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+Connect for any query or product.
+
+<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
