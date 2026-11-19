@@ -44,43 +44,57 @@
 ## 🚀 Featured Work (Live in Production)
 
 ### 🔬 Research Engage · [research-engage.com](https://research-engage.com)
-**Researcher-collaboration platform**: discovery, project applications, collaboration requests, real-time chat and notifications.
-- Typed **NestJS + Next.js 14 monorepo**, built end to end on a controller → service → repository architecture
-- Fixed **race conditions and duplicate requests** with a normalized pair-key constraint and a 48-hour resend cooldown
-- **JWT-authenticated Socket.io** layer: typing indicators, read receipts, per-user rooms, lifecycle events
-- Production hardening: rotated refresh-token cookies, role guards, global rate limiting. Web, API and DB deploy independently on Vercel, Render and Neon
+> **The problem:** researchers have no single place to find collaborators, apply to projects and coordinate the work.
 
-`NestJS` `Next.js 14` `PostgreSQL` `Prisma` `Socket.io` `Cloudinary` `Brevo` `TypeScript`
+A production **collaboration platform** where researchers discover each other, apply to projects, send collaboration requests and chat in real time. I own the whole stack.
+- **Architecture:** a typed **NestJS + Next.js 14 monorepo** with a controller → service → repository structure. Mail (SMTP / Brevo) and storage (disk / Cloudinary) sit behind swappable driver interfaces.
+- **Correctness:** a normalized pair-key constraint plus a 48-hour resend cooldown removed **race conditions and duplicate requests**. The platform also enforces capacity limits on full projects.
+- **Real-time:** a **JWT-authenticated Socket.io** layer with typing indicators, read receipts, per-user rooms and request-lifecycle events.
+- **Production:** rotated refresh-token cookies, role guards and global rate limiting. Web, API and DB deploy independently on **Vercel, Render and Neon**.
+
+`NestJS` `Next.js 14` `PostgreSQL` `Prisma` `Socket.io` `Cloudinary` `TypeScript`
 
 ### 🎾 Path Tennis · [pathtennis.com](https://pathtennis.com)
-**Tournament pathway platform** for competitive players, coaches and parents.
-- Data backbone that surfaces **8,600+ live tournaments** scraped from **8 JavaScript-heavy sources** with Playwright
-- Scheduled **BullMQ + Redis** jobs feed a normalization pipeline that dedupes everything into one canonical schema
-- **PostGIS** geospatial search with precise geocoding, so radius results reflect real driving distance
-- **UTR Sports API** (OAuth), Auth0 RBAC for players, coaches and admins, and full audit logging on every mutation
+> **The problem:** tournament data is scattered across dozens of sites, so players and coaches can't plan a season in one place.
+
+A **tournament pathway platform** that helps competitive players choose tournaments by goal: pro circuit, college scholarship, development or UTR improvement.
+- **Data engine:** **8,600+ live tournaments** scraped from **8 JavaScript-heavy sources** with Playwright. Scheduled **BullMQ + Redis** jobs handle retries and rate limits, then dedupe everything into one canonical schema.
+- **Geo search:** a **PostGIS** layer with venue-level geocoding, so "within 100 km" reflects real driving distance.
+- **Integrations:** the **UTR Sports API** over OAuth for rankings and player performance, with paginated, normalized sync.
+- **Collaboration and security:** shared season plans with invites, a comments system, **Auth0 RBAC** for players, coaches and admins, and audit logging on every mutation.
 
 `Next.js` `NestJS` `PostgreSQL` `PostGIS` `Redis` `BullMQ` `Playwright` `Auth0` `Prisma`
 
+### 🏗️ Friends Associates · [faryk.com](https://faryk.com)
+> **The problem:** an architecture and construction firm ran sales, buyer payments and project updates on phone calls and paperwork.
+
+A complete **architecture, construction and real-estate platform** with a public site, a buyer portal, and sales, project-manager and admin desks in one Next.js app.
+- **Public site:** projects, property listings (buy, rent, sell) with budget, size and city filters, investment opportunities, and live construction progress by stage. Full SEO: sitemap, Open Graph and JSON-LD.
+- **Trilingual chatbot (English · Urdu · Roman Urdu):** detects language and intent from what the visitor types, opens the right guided flow, **matches listings from the database**, and turns each conversation into a sales lead. It needs no paid LLM and can't invent answers.
+- **Business system:** buyer portal (bookings, payments, documents, progress), a sales lead pipeline, a PM progress desk, and admin CRUD with booking rules enforced inside **DB transactions**.
+- **Security:** a **3-layer RBAC permission matrix** (route proxy → page → server action), rate-limited login, CSP headers, audit logs, and S3-compatible storage with WebP re-encoding and EXIF stripping. Covered by **177 end-to-end tests**.
+
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Tailwind 4` `TanStack` `Docker` `S3`
+
 ### 🧪 Best Lab Price · [bestlabprice.com](https://bestlabprice.com)
-**French-first internal quoting tool** that compares medical-test prices across reference labs (CDL, Dynacare).
-- Ingestion pipeline for multi-format **Excel and PDF** price lists, with automatic column detection and full French character support
-- **Fuzzy matching** with `pg_trgm` + `unaccent` against a canonical registry of **1,200+ tests**, with versioned price snapshots
-- Cheapest, fastest and custom comparison modes, bundle-savings detection, and branded **PDF quotes** with email delivery
+> **The problem:** lab staff priced medical tests by hand across several reference-lab price lists, which was slow and error-prone.
+
+A **French-first internal quoting tool** that compares test prices across reference labs (CDL, Dynacare) and turns a requisition into a client-ready estimate.
+- **Ingestion:** parses multi-format **Excel and PDF** price lists with automatic column detection and full French character support.
+- **Matching:** **fuzzy search** with `pg_trgm` + `unaccent` against a canonical registry of **1,200+ tests**, with confidence scores, manual overrides and versioned price snapshots.
+- **Output:** cheapest, fastest and custom comparison modes, bundle-savings detection, and branded **PDF quotes** (draft → sent versioning) delivered by email.
 
 `Next.js` `PostgreSQL` `pg_trgm` `Prisma` `ExcelJS` `PDFKit` `Zod` `NextAuth`
 
 ### 🩺 MedGo2U · [medgo2u.com](https://medgo2u.com)
-**UK healthcare marketplace** connecting HCPC-registered physiotherapists with clients.
-- Bookings, packages, **Stripe payments**, real-time provider tracking and chat before booking
-- Owned technical and local **SEO**: structured data and 30+ location landing pages that rank for high-intent searches
-- Improved **Core Web Vitals** with image optimization, code-splitting and caching
+> **The problem:** UK clients needed a simple way to book trusted physiotherapists at home or by video.
+
+A **UK healthcare marketplace** connecting HCPC-registered physiotherapists with clients.
+- **Product:** home-visit and video bookings, packages, provider profiles, **Stripe payments**, real-time provider tracking and chat before booking.
+- **Growth:** I owned technical and local **SEO** (structured data and 30+ location landing pages), which ranks for high-intent searches like *"physiotherapist near me"*.
+- **Performance:** better **Core Web Vitals** from image optimization, code-splitting and caching.
 
 `Next.js` `Express.js` `Node.js` `Stripe` `SEO` `Core Web Vitals`
-
-### 🏗️ Friends Associates · [Live Demo](https://friends-associates-six.vercel.app) · [Code](https://github.com/naqi10/Friends-Associate)
-**Architecture, construction and real-estate platform** with property listings, service pages, and a customer portal for construction progress, payments and documents.
-
-`Next.js` `TypeScript` `Prisma` `Tailwind CSS`
 
 ---
 
@@ -144,7 +158,7 @@ User Query ─► Intent Detection ─► Retrieval (pgvector / Chroma / Pinecon
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=naqi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=naqi10&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=naqi10&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="streak"/>
 </div>
 
 ---
