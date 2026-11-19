@@ -1,16 +1,17 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+%C3%97+AI+Engineer;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+Python;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;Shipping+AI+that+works+in+prod" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Ali%20Naqi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Ali Naqi"/>
+
+<a href="https://github.com/naqi10">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=3%2B+years+shipping+production+software;LLM+apps+%C2%B7+RAG+%C2%B7+AI+Agents;NestJS+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Open+to+remote+%26+international+roles+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
-<p>
-  <code>JavaScript</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>LLMs</code> &nbsp;·&nbsp; <code>Databases</code>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=naqi10&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://research-engage.com"><img src="https://img.shields.io/badge/Live%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Work"/></a>
+<img src="https://komarev.com/ghpvc/?username=naqi10&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -18,183 +19,145 @@
 
 ## 👋 Hey, I'm Ali
 
-I build things that ship. Not demos  real, production-grade applications used by real people.
+**AI & Full-Stack Engineer with 3+ years of production experience** building software that real users depend on. I don't stop at demos. I take products from database schema to deployed UI and keep them running.
 
-My work lives at the intersection of full-stack engineering and AI — from snappy Next.js frontends and typed NestJS/FastAPI backends, to RAG pipelines, LLM integrations, and intelligent data systems. I care about clean architecture, fast interfaces, and code that's easy to maintain six months later.
-
-I've worked hands-on in **React** and **Next.js**: building real features and full projects routes, auth-aware UI, dashboards, and performance-minded pages users rely on day to day.
-
-Behind that, I use **NestJS** for backends that need to grow REST APIs, structured modules, and pipelines that pull data through **scraping** and ingestion, then **normalize** it so everything stays consistent and trustworthy downstream. When work belongs off the hot path, I queue it with **BullMQ** and **Redis** so the system stays responsive under load.
-
-On the **Python** side, I've built **RAG** pipelines and **fine-tuned** models on **e‑commerce**-oriented data aligning outputs with how people actually search and buy, not generic demos. I'm straightforward about trade-offs, limits, and what still needs a second look in production.
+- 🎓 **BS Data Science** (2025): Python, Scikit-learn, TensorFlow, Keras, computer vision
+- 💼 **3+ years in production**: TypeScript, NestJS, Next.js, PostgreSQL, Redis, BullMQ
+- 🧠 **AI engineering**: RAG pipelines, LLM integrations, LangChain / LangGraph agents, fine-tuning
+- 🚀 **Shipped 5+ live platforms** for clients in the 🇬🇧 UK, 🇫🇷 French-speaking markets, and global users
+- 🌍 **Open to** remote and international roles: *AI Engineer · Full-Stack Engineer · Backend Engineer*
 
 > *"Right tool, clean code, real impact."*
 
 ---
 
-## 🔥 What I Actually Build
+## 💼 Experience
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🧠 AI Systems       → RAG, LangChain, LangGraph, Agents    │
-│  🌐 Web Platforms    → Next.js, NestJS, FastAPI, REST APIs  │
-│  🗄️  Data Layers     → PostgreSQL, MongoDB, Redis, pgvector  │
-│  ⚡  Fast Frontends  → SSR, caching, lazy load, Web Vitals  │
-│  🔧 Dev Infra        → Docker, JWT Auth, CI/CD, Prisma ORM  │
-└─────────────────────────────────────────────────────────────┘
-```
+| Role | Company | Period |
+|---|---|---|
+| **Software Engineer** | [Research Engage](https://research-engage.com) | Jun 2026 – Present |
+| **Full-Stack Developer** | Dev Layers | Apr 2025 – May 2026 |
+| **Full-Stack Developer** | [MedGo2U](https://medgo2u.com) (UK) | Jun 2023 – Apr 2025 |
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Work (Live in Production)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🔬 Research Engage · [research-engage.com](https://research-engage.com)
+**Researcher-collaboration platform**: discovery, project applications, collaboration requests, real-time chat and notifications.
+- Typed **NestJS + Next.js 14 monorepo**, built end to end on a controller → service → repository architecture
+- Fixed **race conditions and duplicate requests** with a normalized pair-key constraint and a 48-hour resend cooldown
+- **JWT-authenticated Socket.io** layer: typing indicators, read receipts, per-user rooms, lifecycle events
+- Production hardening: rotated refresh-token cookies, role guards, global rate limiting. Web, API and DB deploy independently on Vercel, Render and Neon
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+`NestJS` `Next.js 14` `PostgreSQL` `Prisma` `Socket.io` `Cloudinary` `Brevo` `TypeScript`
 
-### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🎾 Path Tennis · [pathtennis.com](https://pathtennis.com)
+**Tournament pathway platform** for competitive players, coaches and parents.
+- Data backbone that surfaces **8,600+ live tournaments** scraped from **8 JavaScript-heavy sources** with Playwright
+- Scheduled **BullMQ + Redis** jobs feed a normalization pipeline that dedupes everything into one canonical schema
+- **PostGIS** geospatial search with precise geocoding, so radius results reflect real driving distance
+- **UTR Sports API** (OAuth), Auth0 RBAC for players, coaches and admins, and full audit logging on every mutation
 
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+`Next.js` `NestJS` `PostgreSQL` `PostGIS` `Redis` `BullMQ` `Playwright` `Auth0` `Prisma`
 
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### 🧪 Best Lab Price · [bestlabprice.com](https://bestlabprice.com)
+**French-first internal quoting tool** that compares medical-test prices across reference labs (CDL, Dynacare).
+- Ingestion pipeline for multi-format **Excel and PDF** price lists, with automatic column detection and full French character support
+- **Fuzzy matching** with `pg_trgm` + `unaccent` against a canonical registry of **1,200+ tests**, with versioned price snapshots
+- Cheapest, fastest and custom comparison modes, bundle-savings detection, and branded **PDF quotes** with email delivery
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+`Next.js` `PostgreSQL` `pg_trgm` `Prisma` `ExcelJS` `PDFKit` `Zod` `NextAuth`
 
----
+### 🩺 MedGo2U · [medgo2u.com](https://medgo2u.com)
+**UK healthcare marketplace** connecting HCPC-registered physiotherapists with clients.
+- Bookings, packages, **Stripe payments**, real-time provider tracking and chat before booking
+- Owned technical and local **SEO**: structured data and 30+ location landing pages that rank for high-intent searches
+- Improved **Core Web Vitals** with image optimization, code-splitting and caching
 
-## 🚀 Featured Projects
+`Next.js` `Express.js` `Node.js` `Stripe` `SEO` `Core Web Vitals`
 
-### 🎾 Path Tennis — [pathtennis.com](https://pathtennis.com)
-> Tournament pathway platform for players, coaches & parents
+### 🏗️ Friends Associates · [Live Demo](https://friends-associates-six.vercel.app) · [Code](https://github.com/naqi10/Friends-Associate)
+**Architecture, construction and real-estate platform** with property listings, service pages, and a customer portal for construction progress, payments and documents.
 
-A production full-stack platform that helps competitive tennis players make smarter decisions about their tournament path whether they're targeting Professional circuits, College scholarships, Development stages, or UTR score improvement.
-
-**What makes it interesting:**
-- Scrapers pulling tournaments from **8 different sources** on scheduled **Redis + BullMQ** jobs, feeding a clean normalization pipeline that dedupes and standardizes data into a single canonical schema
-- Pinpoint-accurate geocoding venues resolve to **exact addresses, not country centroids** so PostGIS distance sorting actually reflects how far a player has to drive
-- Plans module with shared tournament drafts, invite workflows, and per-member notification preferences stored in JSONB
-- Full audit logging on every mutation who changed what, and exactly when
-- Integrated UTR Sports OAuth API with pagination and normalised JSON sync
-- Comments system with 15-min edit windows, soft-delete flags, and notification gating
-
-`Next.js` `NestJS` `PostgreSQL` `PostGIS` `Redis` `BullMQ` `Prisma` `TypeORM` `UTR API` `OAuth` `JWT` `Tailwind`
+`Next.js` `TypeScript` `Prisma` `Tailwind CSS`
 
 ---
 
-### 🧪 Lab Price Comparator — [bestlabprice.com](https://bestlabprice.com)
-> Internal tool for a French client — multi-tenant lab test price comparison + PDF quotation generator
+## 🤖 AI & ML Projects
 
-Built for a French client's clinic operations to compare 2000+ lab test prices across labs and auto-generate branded PDF quotations used internally by their team to speed up quoting.
+| Project | What it does | Stack |
+|---|---|---|
+| 📄 [**Multi-PDF Chatbot**](https://github.com/naqi10/multi-pdf-chatbot) | Chat with multiple PDFs using retrieval-augmented generation | Python · LangChain · Vector DB |
+| 👗 [**Virtual Dressing Room**](https://github.com/naqi10/Virtual-dressing-room-) | AI-powered virtual try-on using computer vision | Python · TensorFlow · OpenCV |
+| 🎙️ [**AI Transcriber**](https://github.com/naqi10/AI-transcriber) | Speech-to-text transcription app | Python · Speech AI |
+| 🧩 [**Challenge Generator**](https://github.com/naqi10/challenge-generator) | LLM-generated coding challenges | Python · FastAPI · LLM |
+| 💼 **Jobify AI** | Career assistant for resumes, cover letters and interview prep | Next.js · Gemini API · Clerk |
 
-**What makes it interesting:**
-- Ingestion pipeline parsing Excel and PDF price lists with auto column detection and full UTF-8/French char support
-- Fuzzy test matching via `pg_trgm` + `unaccent` with confidence scores and manual overrides
-- `Meilleur choix` badge engine flagging cheapest option per test category
-- DRAFT → SENT PDF versioning workflow with PDFKit and A4 formatting
-- Admin dashboard with activity logs, email delivery analytics, and role-protected user management
+### 🧠 How I build AI that survives production
 
-`Next.js` `NextAuth` `PostgreSQL` `pg_trgm` `Prisma` `ExcelJS` `PDFKit` `Zod` `TypeScript`
-
----
-
-### 🤖 Jobify AI
-> AI-powered career assistant — resumes, cover letters, interview prep
-
-Integrated Gemini API for context-aware generation of career documents, with job trend features and industry insights.
-
-`Next.js` `Gemini API` `Clerk Auth` `Tailwind` `AI Integration`
-
----
-
-### 🛒 E-Shop Platform
-> Full-stack e-commerce with role-based admin tools
-
-Product catalog, cart, order management, and admin dashboard built with clean separation of concerns across frontend and backend.
-
-`Next.js` `NestJS` `React` `PostgreSQL` `MongoDB` `Prisma` `JWT` `Tailwind`
-
----
-
-## 🧠 How I Approach AI Engineering
-
-Most AI demos break in production. Here's how I build ones that don't:
-
-```
-User Query
-    │
-    ▼
-Query Preprocessing & Intent Detection
-    │
-    ▼
-Retrieval (pgvector / Chroma / Pinecone)  ← Chunked + Embedded Docs
-    │
-    ▼
-Context Ranking + Reranking
-    │
-    ▼
-LLM Call (with structured prompt + guardrails)
-    │
-    ▼
-Response + Cache Layer (Redis)
-    │
-    ▼
-User gets a fast, accurate answer 
+```text
+User Query ─► Intent Detection ─► Retrieval (pgvector / Chroma / Pinecone)
+          ─► Re-ranking ─► LLM (structured prompts + guardrails)
+          ─► Semantic Cache (Redis) ─► Fast, grounded answer
 ```
 
-- **RAG**: Retrieval-Augmented Generation with vector stores (pgvector, Pinecone, Chroma)
-- **Agents**: Multi-step LangGraph agents with tool calling and state machines
-- **LlamaIndex**: Document ingestion, indexing pipelines, and query engines
-- **Fine-tuning**: LoRA/QLoRA with Transformers adapting base models to domain tasks
-- **Caching**: Redis for semantic cache layers so repeated queries don't re-hit the LLM
+- **RAG** with vector stores (pgvector, Pinecone, Chroma) plus chunking and re-ranking
+- **Agents**: multi-step LangGraph workflows with tool calling and state machines
+- **Fine-tuning**: LoRA and QLoRA on domain data (e.g. e-commerce search intent)
+- **Cost and latency**: semantic caching, so repeated questions don't re-hit the LLM
 
 ---
 
-## ⚡ How I Keep Frontends Fast
+## 🛠️ Tech Stack
 
-Speed isn't an afterthought — it's architecture.
+<div align="center">
 
-| Strategy | What I Use |
-|---|---|
-| **SSR + ISR** | Next.js Server Components, `getStaticProps`, ISR revalidation |
-| **API Response Cache** | Redis with TTL-based invalidation |
-| **Database Query Opt** | Indexed columns, `pg_trgm`, PostGIS, query explain plans |
-| **Image & Asset Opt** | `next/image`, lazy loading, compression pipelines |
-| **Bundle Size** | Dynamic imports, tree-shaking, route-based code splitting |
-| **Semantic Cache** | Cache LLM outputs by embedding similarity (not just key match) |
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,postgres&perline=10" alt="languages"/>
+
+**Backend & Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi,nextjs,react,tailwind,redux&perline=10" alt="web"/>
+
+**Data & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,prisma,docker,aws,vercel,linux,git&perline=10" alt="infra"/>
+
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6E44FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+
+**Also:** BullMQ · Socket.io · Playwright · Auth0 · JWT · PostGIS · Stripe · Swagger/OpenAPI · Zod · CI/CD
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naqi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=naqi10&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
 
 ---
 
 <div align="center">
 
-Connect for any query or product.
+### 🤝 Let's build something that ships
 
-<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+Hiring for an **AI Engineer** or **Full-Stack / Backend Engineer** role? I'd love to talk.
 
----
+<a href="https://www.linkedin.com/in/ali-naqi-69688a244"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alinaqidev@gmail.com"><img src="https://img.shields.io/badge/alinaqidev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-*Built with care. Shipped to production. ⚡*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
